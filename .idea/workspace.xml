@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f8b5fd5-96b8-4dd6-8b6e-a45cc1d05f91" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/aula4/while.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula5/exe11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula5/exe12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula5/exe13.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula2/exercicio1.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula2/exe1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula2/exercicio2.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula2/exe2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula2/exercicio3.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula2/exe3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula1/alomundo.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula1/alomundo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aula3/ex7.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/aula3/exe7.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula3/exe7.py" afterDir="false" />
     </list>
@@ -36,59 +36,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.alomundo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.calculo_imc.executor&quot;: &quot;Run&quot;,
-    &quot;Python.entrada_dados.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exe7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exe8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercicio1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercicio2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercicio3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercicio4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercicio5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercicio6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.if_else.executor&quot;: &quot;Run&quot;,
-    &quot;Python.listacompra.executor&quot;: &quot;Run&quot;,
-    &quot;Python.numeros.executor&quot;: &quot;Run&quot;,
-    &quot;Python.soma.executor&quot;: &quot;Run&quot;,
-    &quot;Python.variavel.executor&quot;: &quot;Run&quot;,
-    &quot;Python.while.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.alomundo.executor": "Run",
+    "Python.calculo_imc.executor": "Run",
+    "Python.entrada_dados.executor": "Run",
+    "Python.ex7.executor": "Run",
+    "Python.exe10.executor": "Run",
+    "Python.exe11.executor": "Run",
+    "Python.exe12.executor": "Run",
+    "Python.exe13.executor": "Run",
+    "Python.exe7.executor": "Run",
+    "Python.exe8.executor": "Run",
+    "Python.exe9.executor": "Run",
+    "Python.exercicio1.executor": "Run",
+    "Python.exercicio2.executor": "Run",
+    "Python.exercicio3.executor": "Run",
+    "Python.exercicio4.executor": "Run",
+    "Python.exercicio5.executor": "Run",
+    "Python.exercicio6.executor": "Run",
+    "Python.if_else.executor": "Run",
+    "Python.listacompra.executor": "Run",
+    "Python.numeros.executor": "Run",
+    "Python.soma.executor": "Run",
+    "Python.variavel.executor": "Run",
+    "Python.while.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ana.pgarcia\PycharmProjects\pythonProject1\aula1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.while">
-    <configuration name="exe8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject1" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aula3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula3/exe8.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="while" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.exe13">
+    <configuration name="exe10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -101,7 +84,95 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula4/while.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula4/exe10.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exe11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aula5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula5/exe11.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exe12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aula5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula5/exe12.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exe13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aula5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula5/exe13.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exe9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aula4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula4/exe9.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,8 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.while" />
-        <item itemvalue="Python.exe8" />
+        <item itemvalue="Python.exe13" />
+        <item itemvalue="Python.exe12" />
+        <item itemvalue="Python.exe11" />
+        <item itemvalue="Python.exe10" />
+        <item itemvalue="Python.exe9" />
       </list>
     </recent_temporary>
   </component>
