@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f8b5fd5-96b8-4dd6-8b6e-a45cc1d05f91" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/aula7/exe21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula7/exe22.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula7/exe23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula8/exe24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula8/exe25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula8/exe26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula8/exe27.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula8/exe28.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula8/exe29.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula8/num_aleatorio.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aula3/ex7.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/aula3/exe7.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula3/exe7.py" afterDir="false" />
     </list>
@@ -54,6 +59,11 @@
     "Python.exe21.executor": "Run",
     "Python.exe22.executor": "Run",
     "Python.exe23.executor": "Run",
+    "Python.exe24.executor": "Run",
+    "Python.exe25.executor": "Run",
+    "Python.exe26.executor": "Run",
+    "Python.exe27.executor": "Run",
+    "Python.exe29.executor": "Debug",
     "Python.exe7.executor": "Run",
     "Python.exe8.executor": "Run",
     "Python.exe9.executor": "Run",
@@ -66,7 +76,9 @@
     "Python.for.executor": "Run",
     "Python.if_else.executor": "Run",
     "Python.listacompra.executor": "Run",
+    "Python.num_aleatorio.executor": "Run",
     "Python.numeros.executor": "Run",
+    "Python.random.executor": "Run",
     "Python.soma.executor": "Run",
     "Python.variavel.executor": "Run",
     "Python.while.executor": "Run",
@@ -79,8 +91,8 @@
       <recent name="C:\Users\ana.pgarcia\PycharmProjects\pythonProject1\aula1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.exe23">
-    <configuration name="exe19" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.exe29">
+    <configuration name="exe25" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -89,11 +101,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aula6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aula8" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula6/exe19.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula8/exe25.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exe20" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="exe26" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -111,11 +123,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aula6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aula8" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula6/exe20.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula8/exe26.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,7 +136,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exe21" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="exe27" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -133,11 +145,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aula7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aula8" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula7/exe21.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula8/exe27.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,7 +158,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exe22" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="exe28" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -155,11 +167,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aula7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aula8" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula7/exe22.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\ana.pgarcia\PycharmProjects\pythonProject1\aula8\exe28.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,7 +180,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exe23" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="exe29" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -177,11 +189,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aula7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aula8" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula7/exe23.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula8/exe29.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -192,11 +204,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.exe23" />
-        <item itemvalue="Python.exe22" />
-        <item itemvalue="Python.exe21" />
-        <item itemvalue="Python.exe20" />
-        <item itemvalue="Python.exe19" />
+        <item itemvalue="Python.exe29" />
+        <item itemvalue="Python.exe28" />
+        <item itemvalue="Python.exe27" />
+        <item itemvalue="Python.exe26" />
+        <item itemvalue="Python.exe25" />
       </list>
     </recent_temporary>
   </component>
